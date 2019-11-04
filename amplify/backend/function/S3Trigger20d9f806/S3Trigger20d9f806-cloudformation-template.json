@@ -76,8 +76,8 @@
 				"Runtime": "nodejs8.10",
 				"Timeout": "25",
 				"Code": {
-					"S3Bucket": "appsyncathenaviz-dev-20190907144428-deployment",
-					"S3Key": "amplify-builds/S3Trigger20d9f806-45716c345869526e455a-build.zip"
+					"S3Bucket": "amplify-appsyncathenaviz-prod-113957-deployment",
+					"S3Key": "amplify-builds/S3Trigger20d9f806-356e2f6449687a347263-build.zip"
 				}
 			}
 		},
